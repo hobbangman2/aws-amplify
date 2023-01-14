@@ -7,7 +7,6 @@
     padding: 0 ;
 }
 
-
 body {
     font: 17px 'Nanum Gothic', sans-serif;
 }
@@ -21,20 +20,19 @@ li {
     list-style: none;
 }
 
-
 #menu1 {
     background: #98E5AD;
 }
 
 #menu1 ul{
-    width: 500px;
+    width: 750px;
     margin: 0 auto; 
     overflow: hidden;
 }
 
 #menu1 ul li{
     float: left;
-    width: 25%;
+    width: 20%;
     height: 100%;
     line-height: 40px;
     text-align: center;
